@@ -1,3 +1,9 @@
+# Bundles
+dist
+
+# Cache
+.cache
+
 # Logs
 logs
 *.log
